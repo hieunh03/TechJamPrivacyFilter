@@ -39,12 +39,11 @@ Image Detection.
   + We export the information of detected object tracks, including the object's name, id, bounding boxes coordinates, and the time they appear and disappear to a JSON file, then send it to the user client app.
 
 ## Results
-
 ### Sensitive Information Detection
-![img](https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/detect.jpg)
+<img src="https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/detect.jpg" alt="Sensitive Information Detection" width="400">
 
 ### Blur Sensitive Information
-![img](https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/blur.jpg)
+<img src="https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/blur.jpg" alt="Blur Sensitive Information" width="400">
 
 ## Demo
 
