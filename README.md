@@ -38,6 +38,14 @@ Image Detection.
 - Export list of sensitive information and select to blur
   + We export the information of detected object tracks, including the object's name, id, bounding boxes coordinates, and the time they appear and disappear to a JSON file, then send it to the user client app.
 
+## Results
+
+### Sensitive Information Detection
+![img](./assets/image/detect.jpg)
+
+### Blur Sensitive Information
+![img](./assets/image/blur.jpg)
+
 ## Demo
 
 - This is the demo of the application. Click [here](https://youtu.be/IfEcFBgydLY) to see the demo.
