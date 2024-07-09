@@ -43,7 +43,7 @@ Image Detection.
 <img src="https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/detect.jpg" alt="Sensitive Information Detection" width="400">
 
 ### Blur Sensitive Information
-<img src="https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/blur.jpg" alt="Blur Sensitive Information" width="400">
+<img src="https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/blur1.jpg" alt="Blur Sensitive Information" width="400">
 
 ## Demo
 
