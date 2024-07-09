@@ -1,0 +1,1 @@
+python privacy_filter.py -w yolov8x-worldv2.pt

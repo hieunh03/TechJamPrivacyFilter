@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151980036940",
+    "project_id": "tiktoktechjam",
+    "storage_bucket": "tiktoktechjam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151980036940:android:cd6f3ef6ebce00e31fb5e9",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151980036940-v5dutd60c6g6tlq0qj0uhnuviqfk8sqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbs1g3FvWblUewuaqYePEfjrcyrewq69Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151980036940-v5dutd60c6g6tlq0qj0uhnuviqfk8sqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
