@@ -41,10 +41,10 @@ Image Detection.
 ## Results
 
 ### Sensitive Information Detection
-![img](./assets/image/detect.jpg)
+![img](https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/detect.jpg)
 
 ### Blur Sensitive Information
-![img](./assets/image/blur.jpg)
+![img](https://github.com/zohuyhieuzoLC03/TechJamPrivacyFilter/blob/master/assets/image/blur.jpg)
 
 ## Demo
 
